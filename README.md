@@ -1,3 +1,3 @@
 # hello-world
 
-Moi Kaikki!
+Moi kaikki kalevit!
